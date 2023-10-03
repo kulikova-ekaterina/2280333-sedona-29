@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Екатерина Куликова](https://up.htmlacademy.ru/adaptive/29/user/2280333).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Варнавский](https://htmlacademy.ru/profile/anton_varnauski).
 
 ---
 
